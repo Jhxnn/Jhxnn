@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working at Staff Informatica as a software development intern.<br><br>I currently do software engineering at Univille.<br><br>I love reading books and studying Java.<br><br><br>
+I'm working at Staff Informatica as a software development intern.<br><br>I currently studying software engineering at Univille University.<br><br>I love reading books and studying Java.<br><br><br>
 
 
 ## 🌐 Socials:
